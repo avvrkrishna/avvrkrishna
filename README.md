@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @avvrkrishna
+- 👀 I’m interested in playing with Data, socializing with friends to grab a coffee
+- 🌱 I’m currently learning Machine Learning and further exploring my experience of data by adding my learnings to github
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning and Data Engineering
+- 📫 You can reach out to me on any of the below mediums
+    - LinkedIn: https://www.linkedin.com/in/avvrkrishna
+    - Instagram: v_v_rama_krishna
